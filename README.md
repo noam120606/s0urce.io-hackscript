@@ -1,0 +1,1 @@
+# s0urce.io-hackscript
