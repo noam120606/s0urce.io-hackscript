@@ -1,0 +1,22 @@
+{
+  "name": "c0",
+  "version": "2.0.0",
+  "description": "A bot to play s0urce.io for you",
+  "main": "main.js",
+  "scripts": {
+    "test": "./node_modules/.bin/eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noam120606/s0urce.io-hackscript.git"
+  },
+  "author": "Noam#2559",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noam120606/s0urce.io-hackscript/issues"
+  },
+  "homepage": "https://github.com/noam120606/s0urce.io-hackscript#readme",
+  "dependencies": {
+    "eslint": "^4.2.0"
+  }
+}
